@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial;
+    color: black;
+    background-color: lightgrey;
+}
+
+header {
+    background: grey;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 30px;
+}
+
+.subtitle {
+    font-size: 18px;
+    color: darkgrey;
+}
+
+.contact-info p {
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 22px;
+    color: black;
+}
+
+.job h3, .education-item h3 {
+    font-size: 20px;
+    color: blue;
+}
+
+section {
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+    color: grey;
+}
